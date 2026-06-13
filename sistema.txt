@@ -1,0 +1,9 @@
+git clone: clona el repositorio actual
+mkdir: crea una carpeta
+cd: ingresa a la carpeta
+cd ..: retrocede a una carpeta 
+touch: crea un archivo
+git status: examina el estado del repositorio
+git add ..: agrega los cambios en el repositorio
+git commit -m: guarda los cambios
+git push: sube los cambios a github

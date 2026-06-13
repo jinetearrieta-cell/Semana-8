@@ -1,0 +1,7 @@
+1: usar contraseñas seguras
+2:verificacion en dos pasos
+3:manetener el softwar actualizado
+4:realizar copias de seguridad
+5:no compartir tus datos
+6:registrar accesos
+7:limitar acceso a informacion sensible
